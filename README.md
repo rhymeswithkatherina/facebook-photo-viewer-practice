@@ -2,7 +2,7 @@ facebook-photo-viewer-practice
 ==============================
 
 
-Time spent: 13 hours (2 hrs trying to fix scroll view bug)
+Time spent: 14 hours (2 hrs trying to fix scroll view bug)
 
 Did all required stories, did zoom optional.
 
